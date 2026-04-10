@@ -1,0 +1,40 @@
+INSERT INTO products (id, title, price, mrp, rating, reviews, bought, sponsored, image) VALUES
+                                                                                            (1, 'Wireless Bluetooth Headphones', 1999, 2999, 4.2, 146, 500, TRUE, 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (2, 'Smart Watch AMOLED Display', 3499, 4999, 4.5, 312, 1200, FALSE, 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (3, 'Gaming Mouse RGB', 999, 1499, 4.1, 98, 350, FALSE, 'https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (4, 'Mechanical Keyboard', 2499, 3999, 4.4, 221, 670, FALSE, 'https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (5, '1080p Full HD Monitor', 8999, 11999, 4.3, 189, 430, FALSE, 'https://images.unsplash.com/photo-1527443154391-507e9dc6c5cc?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (6, 'Portable Bluetooth Speaker', 1499, 2499, 4.0, 76, 210, FALSE, 'https://images.unsplash.com/photo-1608156639585-b3a032ef9689?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (7, 'Laptop Backpack Waterproof', 1199, 1999, 4.6, 540, 1800, TRUE, 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (8, 'USB-C Fast Charger', 699, 1299, 4.3, 410, 2200, FALSE, 'https://images.unsplash.com/photo-1629131726692-1accd0c93fd0?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (9, 'Noise Cancelling Earbuds', 2799, 3999, 4.2, 305, 900, FALSE, 'https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (10, 'External Hard Drive 1TB', 4599, 5999, 4.5, 620, 1500, FALSE, 'https://images.unsplash.com/photo-1531284895878-8284cb680fa2?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (11, 'Wireless Router Dual Band', 2299, 3499, 4.1, 155, 480, FALSE, 'https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (12, 'Gaming Laptop 16GB RAM', 69990, 85965, 4.4, 146, 500, TRUE, 'https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (13, 'Tablet 10-inch Display', 12999, 15999, 4.2, 201, 740, FALSE, 'https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (14, 'Smartphone 5G 128GB', 18999, 22999, 4.3, 890, 3200, FALSE, 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (15, 'Wireless Charging Pad', 1199, 1799, 4.0, 133, 460, FALSE, 'https://images.unsplash.com/photo-1622445272461-c6580cab8755?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (16, 'Action Camera 4K', 7999, 10999, 4.2, 258, 620, FALSE, 'https://images.unsplash.com/photo-1502982720700-bfff97f2ecac?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (17, 'Smart LED TV 43-inch', 24999, 32999, 4.5, 1120, 2700, FALSE, 'https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (18, 'Fitness Band Tracker', 1599, 2499, 4.1, 340, 1100, FALSE, 'https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (19, 'DSLR Camera 24MP', 45999, 54999, 4.6, 520, 850, FALSE, 'https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=400&h=400&fit=crop'),
+
+                                                                                            (20, 'Portable SSD 512GB', 6999, 8999, 4.4, 310, 960, FALSE, 'https://images.unsplash.com/photo-1599507591144-66b1628181bb?q=80&w=400&h=400&fit=crop');
